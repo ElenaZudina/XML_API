@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stocks>
+  <stock>
+    <img>/images/apple.jpg</img>
+    <title>Apple Inc. (AAPL)</title>
+    <release_date>1980-12-12</release_date>
+    <description>Одна из крупнейших мировых компаний, производитель iPhone, Mac и других гаджетов.</description>
+    <category>Технологии</category>
+  </stock>
+  <stock>
+    <img>/images/microsoft.jpg</img>
+    <title>Microsoft Corporation (MSFT)</title>
+    <release_date>1986-03-13</release_date>
+    <description>Мировой лидер в области программного обеспечения и облачных сервисов.</description>
+    <category>Технологии</category>
+  </stock>
+  <stock>
+    <img>/images/test.jpg</img>
+    <title>JPMorgan Chase &amp; Co. (JPM)</title>
+    <release_date>1969-01-01</release_date>
+    <description>Один из крупнейших банков и финансовых холдингов в мире. для битвы с Диабло.</description>
+    <category>Финансы</category>
+  </stock>
+  <stock>
+    <img>/images/pfizer.jpg</img>
+    <title>Pfizer Inc. (PFE)</title>
+    <release_date>1942-06-22</release_date>
+    <description>Глобальная фармацевтическая компания, производитель лекарств и вакцин.</description>
+    <category>Здравоохранение</category>
+  </stock>
+  <stock>
+    <img>/images/amazon.jpg</img>
+    <title>Amazon.com, Inc. (AMZN)</title>
+    <release_date>1997-05-15</release_date>
+    <description>Крупнейший в мире онлайн-ритейлер и поставщик облачных услуг.</description>
+    <category>Ритейл и Технологии</category>
+  </stock>
+  <stock>
+    <img>/images/google.jpg</img>
+    <title>Google LLC (GOOGL)</title>
+    <release_date>2004-08-19</release_date>
+    <description>Мировой лидер в сфере интернет-поиска и цифровой рекламы.</description>
+    <category>Технологии</category>
+  </stock>
+  <stock>
+    <img>/images/test.jpg</img>
+    <title>Tesla, Inc. (TSLA)</title>
+    <release_date>2010-06-29</release_date>
+    <description>Производитель электромобилей и решений для хранения энергии.</description>
+    <category>Автомобили и Технологии</category>
+  </stock>
+  <stock>
+    <img>/images/tesla.jpg</img>
+    <title>Coca-Cola Company (KO)</title>
+    <release_date>1919-09-05</release_date>
+    <description>Одна из крупнейших мировых компаний по производству напитков.</description>
+    <category>Потребительские товары</category>
+  </stock>
+  <stock>
+    <img>/images/visa.jpg</img>
+    <title>Visa Inc. (V)</title>
+    <release_date>2008-03-19</release_date>
+    <description>Глобальная компания по обработке платежей и финансовых услуг.</description>
+    <category>Финансы</category>
+  </stock>
+  <stock>
+    <img>/images/netflix.jpg</img>
+    <title>Netflix, Inc. (NFLX)</title>
+    <release_date>2002-05-23</release_date>
+    <description>Ведущая платформа потокового видео и цифровых развлечений.</description>
+    <category>Медиа и Технологии</category>
+  </stock>
+  <stock>
+    <img>/images/test.jpg</img>
+    <title>Test</title>
+    <release_date>2025-10-07</release_date>
+    <category>Nhfnn</category>
+    <description>fawlefjlwja löjalwefwe</description>
+  </stock>
+  <stock>
+    <img>/images/test.jpg</img>
+    <title>ewfe</title>
+    <release_date>2025-09-29</release_date>
+    <category>wfwef</category>
+    <description>wefwefwfwefew</description>
+  </stock>
+  <stock>
+    <img>/images/test.jpg</img>
+    <title>test</title>
+    <release_date>2002-02-22</release_date>
+    <category>test</category>
+    <description>test</description>
+  </stock>
+  <stock>
+    <img>/images/test.jpg</img>
+    <title>test</title>
+    <release_date>2002-02-22</release_date>
+    <category>test</category>
+    <description>test</description>
+  </stock>
+  <stock>
+    <img>/images/test.jpg</img>
+    <title>test</title>
+    <release_date>2002-02-22</release_date>
+    <category>test</category>
+    <description>test</description>
+  </stock>
+  <stock>
+    <img>images/test.jpg</img>
+    <title>gold</title>
+    <release_date>1989-02-04</release_date>
+    <category>tech</category>
+    <description>descroption</description>
+  </stock>
+  <stock>
+    <img>images/stock.jpg</img>
+    <title>silver</title>
+    <release_date>2001-02-02</release_date>
+    <category>pharma</category>
+    <description>test</description>
+  </stock>
+  <stock>
+    <img>images/chihuahua.jpg</img>
+    <title>testtest</title>
+    <release_date>2003-01-01</release_date>
+    <category>tech</category>
+    <description>testtest</description>
+  </stock>
+  <stock>
+    <img>/images/new-stock.jpg</img>
+    <title>Nvidia Corporation (NVDA)</title>
+    <release_date>1999-01-22</release_date>
+    <description>Один из ведущих производителей графических процессоров.</description>
+    <category>Технологии</category>
+  </stock>
+</stocks>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XML-База данных игр</title>
+    <!-- Подключаем файл стилей -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Подключаем пиксельный шрифт с Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>C:\STOCKS\DATABASE.XML</h1>
+        </header>
+
+        <main>
+            <!-- Секция для вывода списка акций -->
+            <section id="stock-list-section">
+                <h2>Список акций из XML</h2>
+                <div id="stock-list-container">
+                    <!-- Сюда будут загружаться данные из XML -->
+                </div>
+            </section>
+
+            <!-- Секция с формой для добавления новой акции -->
+            <section id="add-stock-section">
+                <h2>Добавить новую акцию в XML</h2>
+                <form id="add-stock-form">
+                    <div class="form-group">
+                        <label for="img">Изображение</label>
+                        <input type="text" id="img" name="img" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="title">Название:</label>
+                        <input type="text" id="title" name="title" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="release_date">Дата выхода (ГГГГ-ММ-ДД):</label>
+                        <input type="date" id="release_date" name="release_date" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="category">Категория:</label>
+                        <input type="text" id="category" name="category" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="description">Описание:</label>
+                        <textarea id="description" name="description" rows="4" required></textarea>
+                    </div>
+                    <button type="submit" class="doom-button">ДОБАВИТЬ В БАЗУ</button>
+                </form>
+            </section>
+        </main>
+    </div>
+
+    <!-- Подключаем основной скрипт -->
+    <script src="js/script.js"></script>
+</body>
+</html>

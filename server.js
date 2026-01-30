@@ -90,7 +90,10 @@ app.post("/api/add-stock", (req, res) => {
 });
 
 //Запуск сервера
+
 app.listen(PORT, () => {
   console.log(`Сервер запущен и работает на http://localhost:${PORT}`);
   console.log("Для остановки нажмите CTRL+C");
 });
+
+module.exports = app;
